@@ -1,0 +1,72 @@
+.top-nav{
+    background-color: white;
+    display: flex;
+    height: 55px;
+}
+.logo{
+    height: 55px;
+    width: 320px;
+    padding-left: 30px;
+}
+.nav-bar{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 60px;
+    font-style: normal;
+}
+.flex-item:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.flex-item{
+    padding: 10px;
+}
+.media{
+    display: flex;
+    padding-left:190px;
+    margin-top: 5px;
+}
+.social-media{
+    height: 20px;
+    width: 20px;
+    padding-left: 10px;
+    display: flex;
+    margin-top: 10px;
+}
+.social-media:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.fliar{
+    height: 560px;
+    width: 100vw;
+}
+.connect{
+    display: flex;
+}
+.connect1{
+    position: absolute;
+    top: 350px;
+    margin-left: 850PX;
+    background-color: #c42d2d;
+    color: white;
+    padding: 10px;
+}
+.connect2{
+    position: absolute;
+    top: 350px;
+    margin-left: 1100px;
+    background-color: white;
+    padding: 10px;
+}
+.connect1:hover{
+    background-color: aliceblue;
+    color: #c42d2d;
+    cursor: pointer;
+}
+.connect2:hover{
+    background-color: aliceblue;
+    color: #c42d2d;
+    cursor: pointer;
+}
