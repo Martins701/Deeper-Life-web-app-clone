@@ -648,4 +648,12 @@
     margin-top: 60px;
     margin-left: 60px;
 }
+.bible-search img{
+    height: 280px;
+    width: 280px;
+    margin-top: -281px;
+    margin-left: 430px;
+    position: absolute;
+       
+}
 
