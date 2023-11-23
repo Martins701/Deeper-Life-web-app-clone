@@ -9,11 +9,10 @@
     padding-left: 30px;
 }
 .nav-bar{
-    margin-top: 10px;
+    margin-top: -10px;
     display: flex;
     justify-content: space-around;
     padding-left: 60px;
-    font-style: normal;
 }
 .flex-item:hover{
     color: #c42d2d;
@@ -21,11 +20,19 @@
 }
 .flex-item{
     padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
 }
 .media{
     display: flex;
-    padding-left:190px;
+    padding-left:170px;
     margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
 }
 .social-media{
     height: 20px;
@@ -33,6 +40,10 @@
     padding-left: 10px;
     display: flex;
     margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
 }
 .social-media:hover{
     color: #c42d2d;
@@ -41,32 +52,600 @@
 .fliar{
     height: 560px;
     width: 100vw;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 .connect{
     display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
 }
 .connect1{
     position: absolute;
-    top: 350px;
-    margin-left: 850PX;
+    top: 355px;
+    margin-left: 900PX;
     background-color: #c42d2d;
     color: white;
-    padding: 10px;
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
 }
 .connect2{
     position: absolute;
-    top: 350px;
+    top: 355px;
     margin-left: 1100px;
-    background-color: white;
-    padding: 10px;
+    background-color: #ebebeb;
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
 }
 .connect1:hover{
-    background-color: aliceblue;
+    background-color: #ebebeb;
     color: #c42d2d;
     cursor: pointer;
 }
 .connect2:hover{
-    background-color: aliceblue;
+    background-color: #ebebeb;
     color: #c42d2d;
     cursor: pointer;
 }
+.nav-1{
+    background-color: #338fe0;
+    display: flex;
+    height: 300px;
+    margin-top: 0;
+}
+.line-1{
+    height: 1px;
+    width: 50px;
+    background-color: white;
+    position: absolute;
+    padding: 3px;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.flex-item1{
+    color: white;
+    margin-top: 20px;
+    padding-left:110px ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    font-weight: bolder;
+}
+.connect3{
+    padding: 10px;
+    margin-top: 150px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.connect3:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.connect4{
+    padding: 10px;
+    margin-top: 150px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 285px;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.connect4:hover{
+    color: rgb(158, 20, 20);
+    cursor: pointer;
+}
+.giving{
+    margin-top: 70px;
+    margin-left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.financial-support{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.give-now{
+    padding: 10px;
+    margin-top: 30px;
+    background-color: #c42d2d;
+    position: absolute;
+    margin-left: 110px;
+    color: white;  
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.give-now:hover{
+    color: #c42d2d;
+    background-color: #ebebeb;
+    cursor: pointer;
+}
+.line-2{
+    height: 1px;
+    width: 50px;
+    background-color: #c42d2d;
+    position: absolute;
+    padding: 3px;
+    margin-top: 60px;
+    margin-left: 110px;
+}
+.nav-2{
+    background-color: #338fe0;
+    height: 180px;
+    margin-top: 160px;
+}
+.dont-give-up{
+    color: white;
+    margin-left: 110px;
+    margin-top: 60px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.god-is-in-this-place{
+    color: white;
+    position: absolute;
+    margin-top: 60px;
+    margin-left:350px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pastor-welcome{
+    padding: 10px;
+    margin-top: 70px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 800px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.pastor-welcome:hover{
+   color: #c42d2d;
+   cursor: pointer;
+}
+.church-near-u{
+    padding: 10px;
+    margin-top: 70px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 980px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.church-near-u:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.give-online{
+    padding: 10px;
+    margin-top: 70px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 1150px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.give-online:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.bible img{
+    height: 573px;
+    width: 480px;
+    margin-left: 110px;
+    box-shadow: rgba(0, 0, 0, 0.979)
+}
+.line-3{
+    height: 1px;
+    width: 50px;
+    background-color: white;
+    position: absolute;
+    padding: 3px;
+    margin-top: 60px;
+    margin-left: 110px;
+}
+.sermon{
+    position: absolute;
+    margin-top:50px;
+    margin-left:630px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:large ; 
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+
+}
+.line4{
+    height: 1px;
+    width: 50px; 
+    background-color: #c42d2d;
+    position: absolute;
+    padding: 3px;
+    margin-top: 60px;
+    margin-left: 630px;
+}
+.bible-study{
+    height: 255px;
+    width: 215px;
+    background-color: rgb(245, 241, 241);
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 630px;
+}
+.mbs-fliar{
+    height: 130px;
+    width: 215px;
+}
+.nov-20{
+    padding: 6px;
+    background-color:#338fe0;
+    position: absolute; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;   
+    color: white; 
+    margin-top: -134px;
+}
+.determinate{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;
+}
+.determinate:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.power-night{
+    height: 255px;
+    width: 215px;
+    background-color: rgb(245, 241, 241);
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 875px;  
+}
+.power-fliar{
+    height: 130px;
+    width: 215px;  
+}
+.nov-16{
+    padding: 6px;
+    background-color:#338fe0;
+    position: absolute; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;   
+    color: white; 
+    margin-top: -134px;
+} 
+.experiencing{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;  
+} 
+.experiencing:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.leaders-development{
+    height: 255px;
+    width: 215px;
+    background-color: rgb(245, 241, 241);
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 1120px;  
+}
+.leaders-fliar{
+    height: 130px;
+    width: 215px;  
+}
+.working{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;   
+}
+.working:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.all-sermons{
+    padding: 10px;
+    margin-top: 475px;
+    background-color:#c42d2d;
+    position: absolute;
+    margin-left: 630px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    color: white;
+}
+.all-sermons:hover{
+    background-color: #ebebeb;
+    color: #c42d2d;
+    cursor: pointer;
+}
+.bible-studies{
+    padding: 10px;
+    margin-top: 475px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 764px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+}
+.bible-studies:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.sunday-services{
+    padding: 10px;
+    margin-top: 475px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 904px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;    
+}
+.sunday-services:hover{
+    color: #c42d2d;
+    cursor: pointer; 
+}
+.revival-services{
+    padding: 10px;
+    margin-top: 475px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 1069px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;      
+}
+.revival-services:hover{
+    color: #c42d2d;
+    cursor: pointer; 
+}
+.nav-3{
+    height: 140px;
+    background-color: #338fe0;
+    margin-top: -4px;
+}
+.today{
+    padding: 7px;
+    background-color: white;
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;     
+}
+.nov-25{
+    padding: 7px;
+    background-color: white;
+    position: absolute;
+    margin-left: 320px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;      
+}
+.nov-26{
+    padding: 7px;
+    background-color: white;
+    position: absolute;
+    margin-left: 495px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;     
+}
+.nov-27{
+    padding: 7px;
+    background-color: white;
+    position: absolute;
+    margin-left: 710px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;     
+}
+.workers-training{
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 60px;  
+    text-decoration: underline white 2px;       
+}
+.workers-training:hover{
+    cursor: pointer;
+}
+.time-1{
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 80px;
+}
+.sunday-worship-service{
+    position: absolute;
+    margin-left: 320px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 60px;  
+    text-decoration: underline white 2px;      
+}
+.sunday-worship-service:hover{
+    cursor: pointer;
+}
+.time-2{
+    position: absolute;
+    margin-left: 320px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 80px;  
+}
+.monday-bible-study{
+    position: absolute;
+    margin-left: 495px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 60px;  
+    text-decoration: underline white 2px;        
+}
+.monday-bible-study:hover{
+    cursor: pointer;
+}
+.time-3{
+    position: absolute;
+    margin-left: 495px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 80px;  
+}
+.leadership-dev{
+    position: absolute;
+    margin-left: 710px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 60px;  
+    text-decoration: underline white 2px;        
+} 
+.leadership-dev:hover{
+    cursor: pointer;
+} 
+.time-4{
+    position: absolute;
+    margin-left: 710px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 80px;  
+}   
+.more-events{
+    padding: 10px;
+    margin-top: 65px;
+    background-color: #ebebeb;
+    position: absolute;
+    margin-left: 1168px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.more-events:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.church-image img{
+    height: 280px;
+    width:280px;
+    margin-top: 60px;
+    margin-left: 110px;
+    
+}
+.line-5{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(192, 33, 33);
+    position: absolute;
+    padding: 3px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
