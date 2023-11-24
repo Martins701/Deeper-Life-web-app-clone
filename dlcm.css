@@ -464,7 +464,7 @@
     cursor: pointer; 
 }
 .nav-3{
-    height: 140px;
+    height: 150px;
     background-color: #338fe0;
     margin-top: -4px;
 }
@@ -633,11 +633,14 @@
     cursor: pointer;
 }
 .church-image img{
-    height: 280px;
-    width:280px;
-    margin-top: 60px;
+    height: 260px;
+    width:260px;
+    margin-top: 55px;
     margin-left: 110px;
-    
+    position: absolute;
+}
+.church-image:hover{
+    cursor: pointer;
 }
 .line-5{
     height: 100px;
@@ -645,15 +648,96 @@
     background-color: rgb(192, 33, 33);
     position: absolute;
     padding: 3px;
-    margin-top: 60px;
+    margin-top: 61px;
     margin-left: 60px;
 }
 .bible-search img{
-    height: 280px;
-    width: 280px;
-    margin-top: -281px;
-    margin-left: 430px;
+    height: 260px;
+    width: 260px;
+    margin-top: 55px;
+    margin-left: 400px;
+    position: absolute;   
+}
+.bible-search{
+    cursor: pointer;
+}
+.praying-hands img{
+    height: 260px;
+    width: 260px;
+    margin-top: 55px;
+    margin-left: 690px;
+    position: absolute;    
+}
+.praying-hands{
+    cursor: pointer;
+}
+.book img{
+    height: 260px;
+    width: 260px;
+    margin-top: 55px;
+    margin-left: 975px;
+    position: absolute;  
+}
+.book{
+    cursor: pointer;
+}
+.sun-man img{
+    height: 300px;
+    margin-top: 390px;
+    width: 1366px;
+}
+.amazing-testimonies{
     position: absolute;
-       
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: -210px;  
+}
+.line-9{
+    height: 0.8px;
+    width: 50px;
+    background-color: white;
+    position: absolute;
+    padding: 3px;
+    margin-top: -225px;
+    margin-left: 110px;
+}
+.read-testimonies{
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: -125px; 
+    padding: 10px;
+    background-color: #c42d2d;
+}
+.read-testimonies:hover{
+    background-color: #ebebeb;
+    cursor: pointer;
+    color: #c42d2d;
+}
+.share-your-testimony{
+    position: absolute;
+    margin-left: 320px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: -125px; 
+    padding: 10px;
+    background-color: #ebebeb;
+}
+.share-your-testimony:hover{
+    color: #c42d2d;
+    cursor: pointer;
 }
 
