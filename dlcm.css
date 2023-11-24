@@ -643,11 +643,11 @@
     cursor: pointer;
 }
 .line-5{
-    height: 0.4px;
+    height: 1px;
     width: 45px;
     background-color: white;
     position: absolute;
-    padding: 3px;
+    padding: 2px;
     margin-top: 165px;
     margin-left: 140px;
     position: absolute;
@@ -680,6 +680,38 @@
     margin-top: 55px;
     margin-left: 400px;
     position: absolute;   
+}
+.line-6{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 430px;
+    position: absolute;
+}
+.daily{
+    position: absolute;
+    margin-left: 430px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 180px;    
+}
+.grow{
+    position: absolute;
+    margin-left: 430px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 240px;  
 }
 .bible-search{
     cursor: pointer;
