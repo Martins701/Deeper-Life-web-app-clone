@@ -726,6 +726,38 @@
 .praying-hands{
     cursor: pointer;
 }
+.line-7{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 718px;
+    position: absolute;
+}
+.prayer-request{
+    position: absolute;
+    margin-left: 718px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 180px;    
+}
+.submit{
+    position: absolute;
+    margin-left: 718px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 240px;  
+}
 .book img{
     height: 260px;
     width: 260px;
@@ -736,9 +768,41 @@
 .book{
     cursor: pointer;
 }
+.line-8{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 1005px;
+    position: absolute; 
+}
+.publications{
+    position: absolute;
+    margin-left: 1005px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 180px;    
+}
+.resources{
+    position: absolute;
+    margin-left: 1005px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 240px;  
+}
 .sun-man img{
     height: 300px;
-    margin-top: 390px;
+    margin-top: 385px;
     width: 1366px;
 }
 .amazing-testimonies{
@@ -796,10 +860,87 @@
     cursor: pointer;
 }
 .dr-kumuyi-pic img{
-    height: 260px;
-    width: 260px;
+    height: 280px;
+    width: 280px;
     margin-top: 55px;
     margin-left: 110px;
     position: absolute;    
+}
+.dr-kumuyi-pic:hover{
+    cursor: pointer;
+}
+.line-10{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 140px;
+    position: absolute; 
+} 
+.pastor-gleans{
+    position: absolute;
+    margin-left: 140px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 176px;  
+}
+.gleanings{
+    position: absolute;
+    margin-left: 140px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 235px;  
+}
+.bible-2 img{
+    height: 280px;
+    width: 280px;
+    margin-top: 55px;
+    margin-left: 415px;
+    position: absolute;     
+}
+.bible-2:hover{
+    cursor: pointer;
+}
+.line-11{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 445px;
+    position: absolute; 
+}
+.sermon-suite{
+  position: absolute;
+    margin-left: 445px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 176px;    
+}
+.series{
+    position: absolute;
+    margin-left: 445px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 235px;   
 }
 
