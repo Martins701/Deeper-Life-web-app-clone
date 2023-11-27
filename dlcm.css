@@ -120,7 +120,7 @@
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
     text-rendering: optimizeLegibility;
     text-align: left;
-    font-weight: bolder;
+    font-weight:bolder;
 }
 .connect3{
     padding: 10px;
@@ -159,6 +159,7 @@
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.015);
     text-rendering: optimizeLegibility;
     text-align: left;
+    font-weight: bolder;
 }
 .financial-support{
     margin-top: 30px;
@@ -815,6 +816,7 @@
     text-align: left;  
     color: white;
     margin-top: -210px;  
+    font-weight: bolder;
 }
 .line-9{
     height: 0.8px;
@@ -922,7 +924,7 @@
     position: absolute; 
 }
 .sermon-suite{
-  position: absolute;
+    position: absolute;
     margin-left: 445px; 
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;  
@@ -943,4 +945,318 @@
     color: white;
     margin-top: 235px;   
 }
+.hand img{
+    height: 280px;
+    width: 280px;
+    margin-top: 55px;
+    margin-left: 720px;
+    position: absolute;   
+}
+.hand:hover{
+    cursor: pointer;
+}
+.line-12{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 755px;
+    position: absolute;
+}
+.volunteer{
+    position: absolute;
+    margin-left: 755px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 176px;   
+}
+.help-people{
+    position: absolute;
+    margin-left: 755px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 235px;   
+}
+.women-mirror-img img{
+    height: 280px;
+    width: 280px;
+    margin-top: 55px;
+    margin-left: 1025px;
+    position: absolute;   
+}
+.women-mirror-img:hover{
+    cursor: pointer;
+}
+.line-13{
+    height: 1px;
+    width: 45px;
+    background-color: white;
+    position: absolute;
+    padding: 2px;
+    margin-top: 165px;
+    margin-left: 1055px;
+    position: absolute;
+}
+.women-mirror{
+    position: absolute;
+    margin-left: 1055px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 176px; 
+}
+.read{
+    position: absolute;
+    margin-left: 1055px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 260px;   
+}
+.large-nav{
+    height: 500px;
+    width: 1366px;
+    margin-top: 400px;
+    position: absolute; 
+    background-color: #f5f5f5; 
+}
+.line-14{
+    height: 1px;
+    width: 45px;
+    background-color:#c42d2d;
+    position: absolute;
+    padding: 2px;
+    margin-top: 73px;
+    margin-left: 110px;
+    position: absolute;
+}
+.events{
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 80px;  
+    font-weight: bolder;
+}
+.box-1{
+    position: absolute;
+    height: 70px;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 110px;
+    background-color: white;
+}
+.gbagada-1 img{
+    height: 70px;
+    width: 100px; 
+}
+.workers-training-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -60px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;
+    position: absolute;
+}
+.time-5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -39px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.today-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -50px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    background-color: #338fe0;
+    padding: 5px;
+    color: white;
+    width: 30px;
+    position: absolute;
+}
+.box-2{
+    position: absolute;
+    height: 70px;
+    width: 350px;
+    margin-top: 245px;
+    margin-left: 110px;
+    background-color: white;
+}
+.gbagada-2 img{
+    height: 70px;
+    width: 100px;
+}
+.sunday{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -60px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;
+    position: absolute;
+}
+.time-6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -39px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.tomorrow{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -50px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    background-color: #338fe0;
+    padding: 5px;
+    color: white;
+    width: 50px;
+    position: absolute;
+}
+.box-3{
+    position: absolute;
+    height: 70px;
+    width: 350px;
+    margin-top: 340px;
+    margin-left: 110px;
+    background-color: white;
+}
+.gbagada-3 img{
+    height: 70px;
+    width: 100px;
+}
+.monday{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -60px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;
+    position: absolute;
+}
+.time-7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -39px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.november-27{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -50px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    background-color: #338fe0;
+    padding: 5px;
+    color: white;
+    width: 40px;
+    position: absolute;
+}
+.line-15{
+    height: 1px;
+    width: 45px;
+    background-color:#c42d2d;
+    position: absolute;
+    padding: 2px;
+    margin-top: 73px;
+    margin-left: 530px;
+    position: absolute;
+}
+.sermons{
+    position: absolute;
+    margin-left: 530px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 80px;  
+    font-weight:bold;
+}
+.box-4{
+    position: absolute;
+    height: 70px;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 530px;
+    background-color: white; 
+}
+.gbagada-4 img{
+    height: 60px;
+    width: 100px;
+}
+.uplifted{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -55px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 2px;
+    position: absolute;
+}
+.crusade-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -34px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.november-26{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -45px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    background-color: #338fe0;
+    padding: 5px;
+    color: white;
+    width: 40px;
+    position: absolute;
+}
+
 
