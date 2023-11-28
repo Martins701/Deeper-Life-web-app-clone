@@ -1030,7 +1030,7 @@
     margin-top: 260px;   
 }
 .large-nav{
-    height: 500px;
+    height: 1000px;
     width: 1366px;
     margin-top: 400px;
     position: absolute; 
@@ -1069,6 +1069,10 @@
     height: 70px;
     width: 100px; 
 }
+.gbagada-1:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
 .workers-training-2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
@@ -1079,6 +1083,10 @@
     text-align: left;
     text-decoration: underline #c42d2d 2px;
     position: absolute;
+}
+.workers-training-2:hover{
+    color: #c42d2d;
+    cursor: pointer;
 }
 .time-5{
     font-family: Arial, Helvetica, sans-serif;
@@ -1114,6 +1122,10 @@
     height: 70px;
     width: 100px;
 }
+.gbagada-2:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
 .sunday{
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
@@ -1124,6 +1136,10 @@
     text-align: left;
     text-decoration: underline #c42d2d 2px;
     position: absolute;
+}
+.sunday:hover{
+    color: #c42d2d;
+    cursor: pointer;
 }
 .time-6{
     font-family: Arial, Helvetica, sans-serif;
@@ -1159,6 +1175,10 @@
     height: 70px;
     width: 100px;
 }
+.gbagada-3:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
 .monday{
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
@@ -1169,6 +1189,10 @@
     text-align: left;
     text-decoration: underline #c42d2d 2px;
     position: absolute;
+}
+.monday:hover{
+    color: #c42d2d;
+    cursor: pointer;
 }
 .time-7{
     font-family: Arial, Helvetica, sans-serif;
@@ -1225,6 +1249,10 @@
     height: 60px;
     width: 100px;
 }
+.gbagada-4:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
 .uplifted{
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
@@ -1235,6 +1263,10 @@
     text-align: left;
     text-decoration: underline #c42d2d 2px;
     position: absolute;
+}
+.uplifted:hover{
+    color: #c42d2d;
+    cursor: pointer;
 }
 .crusade-1{
     font-family: Arial, Helvetica, sans-serif;
@@ -1255,8 +1287,161 @@
     background-color: #338fe0;
     padding: 5px;
     color: white;
-    width: 40px;
+    width: 38px;
     position: absolute;
+}
+.box-5{
+    position: absolute;
+    height: 70px;
+    width: 350px;
+    margin-top: 245px;
+    margin-left: 530px;
+    background-color: white;   
+}
+.gbagada-5 img{
+    height: 60px;
+    width: 100px;
+}
+.gbagada-5:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.lords-prayer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -55px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 1px;
+    position: absolute;
+}
+.lords-prayer:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.crusade-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -34px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.novem-26{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -45px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    background-color: #338fe0;
+    padding: 5px;
+    color: white;
+    width: 38px;
+    position: absolute; 
+}
+.box-6{
+    position: absolute;
+    height: 70px;
+    width: 350px;
+    margin-top: 340px;
+    margin-left: 530px;
+    background-color: white; 
+}
+.gbagada-6 img{
+    height: 60px;
+    width: 100px;
+}
+.gbagada-6:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.truth{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -55px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    text-decoration: underline #c42d2d 1px;
+    position: absolute;
+}
+.truth:hover{
+    color: #c42d2d;
+    cursor: pointer;
+}
+.crusade-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 115px;
+    margin-top: -34px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+}
+.novem-27{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -45px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;
+    background-color: #338fe0;
+    padding: 5px;
+    color: white;
+    width: 38px;
+    position: absolute; 
+}
+.line-16{
+    height: 1px;
+    width: 45px;
+    background-color:#c42d2d;
+    position: absolute;
+    padding: 2px;
+    margin-top: 73px;
+    margin-left: 980px;
+    position: absolute;
+}
+.give-online-2{
+    position: absolute;
+    margin-left: 980px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 80px;  
+    font-weight:bold;
+}
+.give-now-2{
+    position: absolute;
+    margin-left: 980px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 150px; 
+    padding: 10px;
+    background-color: #c42d2d;
+    font-weight: bolder;
+}
+.give-now-2:hover{
+    background-color: #ebebeb;
+    cursor: pointer;
+    color: #c42d2d;
+}
+.white-nav{
+    height: 200px;
+    width: 730px;
+    margin-top: 480px;
+    position: absolute; 
+    background-color: white; 
 }
 
 
