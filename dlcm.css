@@ -1030,7 +1030,7 @@
     margin-top: 260px;   
 }
 .large-nav{
-    height: 1000px;
+    height: 930px;
     width: 1366px;
     margin-top: 400px;
     position: absolute; 
@@ -1437,11 +1437,257 @@
     color: #c42d2d;
 }
 .white-nav{
-    height: 200px;
+    height: 230px;
     width: 730px;
     margin-top: 480px;
     position: absolute; 
     background-color: white; 
+}
+.line-17{
+    height: 1px;
+    width: 45px;
+    background-color:#c42d2d;
+    position: absolute;
+    padding: 2px;
+    margin-top: 68px;
+    margin-left: 110px;
+    position: absolute;
+}
+.ayodele{
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 80px;  
+    font-weight:bold;
+}
+.directions{
+    position: absolute;
+    margin-left: 550px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 80px; 
+    padding: 8px;
+    background-color: #c42d2d;
+    font-weight: bolder;
+}
+.directions:hover{
+    color: #c42d2d;
+    background-color: #ebebeb;
+    cursor: pointer;
+}
+.locations{
+    position: absolute;
+    margin-left: 550px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    color: white;
+    margin-top: 121px; 
+    padding: 8px;
+    background-color: #c42d2d;
+    font-weight: bolder;
+    width: 90px;
+}
+.locations:hover{
+    color: #c42d2d;
+    background-color: #ebebeb;
+    cursor: pointer;
+}
+.map img{
+    height: 216px;
+    width: 630px;
+    margin-top: 487px;
+    margin-left: 730px;
+}
+.map:hover{
+    cursor: pointer;
+}
+.down-nav{
+    height: 230px;
+    width: 1366px;
+    background-color: #338fe0;
+    margin-top: -4px;
+}.white-facebook img{
+    height: 35px;
+    width: 35px;
+    margin-left: 110px;
+    margin-top: 60px;
+    position: absolute;
+}
+.white-facebook:hover{
+    cursor: pointer;
+}
+.white-twitter img{
+    height: 20px;
+    width: 20px;
+    margin-left: 155px;
+    margin-top: 68px;
+    position: absolute;
+}
+.white-twitter:hover{
+    cursor: pointer;
+}
+.white-youtube img{
+    height: 20px;
+    width: 23px;
+    margin-left: 190px;
+    margin-top: 68px;
+    position: absolute;
+}
+.white-youtube:hover{
+    cursor: pointer;
+}
+.white-instagram img{
+    height: 25px;
+    width: 25px;
+    margin-left: 230px;
+    margin-top: 66px;
+    position: absolute;
+}
+.white-instagram:hover{
+    cursor: pointer;
+}
+.dlcm{
+    position: absolute;
+    margin-left: 110px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 120px;  
+    font-weight:bold;
+    color: white; 
+}
+.home{
+    position: absolute;
+    margin-left: 580px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 70px;  
+    font-weight:bolder;
+    color: white; 
+}
+.home:hover{
+    cursor: pointer;
+}
+.home-1{
+    position: absolute;
+    margin-left: 580px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 95px;  
+    font-weight:bold;
+    color: white; 
+}
+.home-1:hover{
+    cursor: pointer;
+}
+.sermon-1{
+    position: absolute;
+    margin-left: 850px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 70px;  
+    font-weight:bolder;
+    color: white; 
+}
+.sermon-1:hover{
+    cursor: pointer;
+}
+.sermon-2{
+    position: absolute;
+    margin-left: 850px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 95px;  
+    font-weight:bold;
+    color: white; 
+}
+.sermon-2:hover{
+    cursor: pointer;
+}
+.events-1{
+    position: absolute;
+    margin-left: 1020px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 70px;  
+    font-weight:bolder;
+    color: white; 
+}
+.events-1:hover{
+    cursor: pointer;
+}
+.events-2{
+    position: absolute;
+    margin-left: 1020px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 95px;  
+    font-weight:bold;
+    color: white; 
+}
+.events-2:hover{
+    cursor: pointer;
+}
+.ministries{
+    position: absolute;
+    margin-left: 1200px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 70px;  
+    font-weight:bolder;
+    color: white; 
+}
+.ministries:hover{
+    cursor: pointer;
+}
+.ministries-1{
+    position: absolute;
+    margin-left: 1200px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;  
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.009);
+    text-rendering: optimizeLegibility;
+    text-align: left;  
+    margin-top: 95px;  
+    font-weight:bold;
+    color: white; 
+}
+.ministries-1:hover{
+    cursor: pointer;
 }
 
 
